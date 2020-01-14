@@ -1,0 +1,13 @@
+'''
+print the table of the number entered through console 
+'''
+
+n = int(input("Enter the table num : "))
+
+print(f"Table of {n} ")
+
+for i in range(1,21):
+    print(f"{n} * {i} = {n*i}")
+
+
+=================================================================================
