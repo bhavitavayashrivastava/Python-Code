@@ -9,6 +9,8 @@
 4) \" \n \t \'      print this as output
 
 
+print(r'To print as it is ')
+
 print("this is \\\\ double backslash")
 
 print("these are /\\/\\/\\/\\/\\ mountains")
